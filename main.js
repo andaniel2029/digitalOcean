@@ -5719,9 +5719,9 @@ __webpack_require__.r(__webpack_exports__);
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 var environment = {
-    production: true,
-    backendUrl: 'http://www.phponline.site:8080',
-    frontendUrl: 'http://www.phponline.site',
+    production: false,
+    backendUrl: 'http://134.209.154.228:8080',
+    frontendUrl: 'http://134.209.154.228',
     node: 'testnet'
 };
 
@@ -5761,7 +5761,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! E:\Work\Angular\Currency_Wallet\front1\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\User\Desktop\kkk3\front1\src\main.ts */"./src/main.ts");
 
 
 /***/ }),

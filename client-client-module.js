@@ -6368,6 +6368,7 @@ var ClaimedOrdersComponent = /** @class */ (function () {
                             }
                             _this.claimOrders = res;
                         });
+                        this.checkPeriod();
                         return [2 /*return*/];
                 }
             });
@@ -6588,7 +6589,7 @@ var OpenOrdersComponent = /** @class */ (function () {
                             // console.log(res);
                             _this.openOders = res;
                             _this.comparePrice();
-                            // this.checkPeriod();
+                            _this.checkPeriod();
                         });
                         return [2 /*return*/];
                 }

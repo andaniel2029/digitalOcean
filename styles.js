@@ -662,10 +662,10 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\Work\Angular\Currency_Wallet\front1\node_modules\simple-line-icons\css\simple-line-icons.css */"./node_modules/simple-line-icons/css/simple-line-icons.css");
-__webpack_require__(/*! E:\Work\Angular\Currency_Wallet\front1\src\scss\style.scss */"./src/scss/style.scss");
-__webpack_require__(/*! E:\Work\Angular\Currency_Wallet\front1\src\styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! E:\Work\Angular\Currency_Wallet\front1\node_modules\datatables.net-dt\css\jquery.dataTables.css */"./node_modules/datatables.net-dt/css/jquery.dataTables.css");
+__webpack_require__(/*! C:\Users\User\Desktop\kkk3\front1\node_modules\simple-line-icons\css\simple-line-icons.css */"./node_modules/simple-line-icons/css/simple-line-icons.css");
+__webpack_require__(/*! C:\Users\User\Desktop\kkk3\front1\src\scss\style.scss */"./src/scss/style.scss");
+__webpack_require__(/*! C:\Users\User\Desktop\kkk3\front1\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Users\User\Desktop\kkk3\front1\node_modules\datatables.net-dt\css\jquery.dataTables.css */"./node_modules/datatables.net-dt/css/jquery.dataTables.css");
 
 
 /***/ })
