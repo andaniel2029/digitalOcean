@@ -5719,7 +5719,7 @@ __webpack_require__.r(__webpack_exports__);
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 var environment = {
-    production: false,
+    production: true,
     backendUrl: 'http://www.phponline.site:8080',
     frontendUrl: 'http://www.phponline.site',
     node: 'testnet'
